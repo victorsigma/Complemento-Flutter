@@ -34,7 +34,7 @@
 ![Functions](./assets/images/funciones.jpg)
 
 ### 06: Classes (0.25 puntos)
-![Classes](./assets/images/classes.jpg)
+![Classes](./assets/images/clase.jpg)
 
 ### 07: Constructors and Names (0.25 puntos)
 ![Constructors and Names](./assets/images/Contructores,clases,getSet.jpg)
