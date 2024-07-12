@@ -20,7 +20,7 @@
 ![Hello World](./assets/images/holamundo_code.jpg)
 
 ### 02: Variables (0.25 puntos)
-![Variables](./assets/images/variabkles.jpg)
+![Variables](./assets/images/variables.jpg)
 
 ### 03: Maps (0.25 puntos)
 ![Maps](./assets/images/mapas.jpg)
